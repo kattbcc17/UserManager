@@ -7,9 +7,9 @@ My goal was to apply C++ language syntax and concepts to build a functional and 
 
 The software I wrote is a console-based user management system that utilizes C++'s object-oriented programming features, such as classes and objects, to manage user data. 
 The system provides a menu-driven interface for users to interact with the system and perform various actions.
-{Provide a description of the software that you wrote to demonstrate the C++ language.}
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/tgltKAhrw4o?si=dl8dBYnmSKIDZleq))
+
+[Software Demo Video](https://www.youtube.com/watch?v=tgltKAhrw4o)
 
 # Development Environment
 
